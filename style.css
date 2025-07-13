@@ -1,0 +1,51 @@
+body{
+            overflow-x:hidden;
+                height: 100%;
+
+        }
+        /* Custom styles if needed */
+        .custom-text-orange {
+            color: #e67e22;
+        }
+         /* Custom styles if needed */
+        .bg-dark-gray {
+            background-color: #999999;
+        }
+        .text-white {
+            color: #ffffff;
+        }
+        .font-verdana {
+            font-family: Verdana, Geneva, sans-serif;
+        }
+           .text-orange {
+            color: #e67e22;
+        }
+      
+       
+        .font-size-lg {
+            font-size: 18px;
+        }
+          .bg-custom-blue {
+            background-color: #00cccc;
+        }
+        .bg-custom-purple {
+            background-color: #cc99ff;
+        }
+        .bg-custom-yellow {
+            background-color: #ffd320;
+        }
+        .bg-custom-lightblue {
+            background-color: #3399ff;
+        }
+     
+
+
+
+
+
+
+.background-image {
+    position: relative;
+    width: 100%;
+}
+
